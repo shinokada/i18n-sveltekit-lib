@@ -16,8 +16,8 @@ dependencies:
 
 devDependencies:
   '@inlang/sdk-js':
-    specifier: ^0.1.2
-    version: 0.1.2(@inlang/core@0.7.13)
+    specifier: ^0.2.1
+    version: 0.2.1(@inlang/core@0.7.13)
   '@playwright/test':
     specifier: ^1.28.1
     version: 1.33.0
@@ -531,8 +531,8 @@ packages:
       - esbuild
     dev: true
 
-  /@inlang/sdk-js@0.1.2(@inlang/core@0.7.13):
-    resolution: {integrity: sha512-4oUiy0FzQGb4Q66HWhQXBcGeCfcpubnX+ub+mrfKsdGSW4FpXhBB6x13luvexe3je3B2ggYNUpneRQZtPzykag==}
+  /@inlang/sdk-js@0.2.1(@inlang/core@0.7.13):
+    resolution: {integrity: sha512-/akHqjeXhg2d/H9StQIyKMvwH7bJGlpQzxIk8adZeFEYG8UPBY/bs2YPXSZ1ojon8B1wfrmBktTZxN9nbIRj7w==}
     engines: {node: '>=18'}
     peerDependencies:
       '@inlang/core': '*'
