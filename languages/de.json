@@ -13,5 +13,6 @@
   "btn-view-on-GitHub": "Auf GitHub ansehen",
   "light": "Licht",
   "dark": "dunkel",
-  "home-dark-title": "Integration des Dunkelmodus"
+  "home-dark-title": "Integration des Dunkelmodus",
+  "home-dark-1": "Flowbite Svelte unterstützt den Dunkelmodus und kann problemlos in Ihr Projekt integriert werden, indem Sie der offiziellen Dokumentation auf Basis von Svelte folgen."
 }
