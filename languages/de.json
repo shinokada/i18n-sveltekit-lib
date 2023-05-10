@@ -12,5 +12,6 @@
   "btn-start-building": "Beginnen Sie mit dem Bau",
   "btn-view-on-GitHub": "Auf GitHub ansehen",
   "light": "Licht",
-  "dark": "dunkel"
+  "dark": "dunkel",
+  "home-dark-title": "Integration des Dunkelmodus"
 }
