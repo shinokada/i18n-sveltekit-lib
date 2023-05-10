@@ -1,5 +1,6 @@
 {
   "welcome": "Willkommen bei inlang",
   "intro": "Hallo",
-  "home-cta-title": "Svelte UI-Komponenten"
+  "home-cta-title": "Svelte UI-Komponenten",
+  "home-cta-1": " ist eine kostenlose Open-Source-UI-Komponentenbibliothek, die mit Svelte basierend auf Flowbite und Tailwind CSS erstellt wurde."
 }
