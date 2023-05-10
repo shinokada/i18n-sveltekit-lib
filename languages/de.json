@@ -14,5 +14,6 @@
   "light": "Licht",
   "dark": "dunkel",
   "home-dark-title": "Integration des Dunkelmodus",
-  "home-dark-1": "Flowbite Svelte unterstützt den Dunkelmodus und kann problemlos in Ihr Projekt integriert werden, indem Sie der offiziellen Dokumentation auf Basis von Svelte folgen."
+  "home-dark-1": "Flowbite Svelte unterstützt den Dunkelmodus und kann problemlos in Ihr Projekt integriert werden, indem Sie der offiziellen Dokumentation auf Basis von Svelte folgen.",
+  "home-dark-2": "Durch die Aktivierung des Dunkelmodus können Benutzer entweder die bevorzugte Methode (hell oder dunkel) auswählen oder basierend auf den Betriebssystemeinstellungen automatisch wechseln."
 }
