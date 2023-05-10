@@ -2,5 +2,6 @@
   "welcome": "インランへようこそ",
   "intro": "こんにちは",
   "home-cta-title": "Svelte UI コンポーネント",
-  "home-cta-1": " は、Flowbite および Tailwind CSS に基づいて Svelte を使用して構築された、無料のオープンソース UI コンポーネント ライブラリです。"
+  "home-cta-1": " は、Flowbite および Tailwind CSS に基づいて Svelte を使用して構築された、無料のオープンソース UI コンポーネント ライブラリです。",
+  "home-cta-2": "NPM 経由でパッケージをインストールすると、ドロップダウン、ナビゲーションバー、モーダルなどの既製の UI コンポーネントを使用して、Svelte、Tailwind CSS、Flowbite を活用して、最新の外観の Web アプリケーションを迅速に構築できるようになります。"
 }
