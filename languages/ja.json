@@ -12,5 +12,6 @@
   "btn-start-building": "構築を開始する",
   "btn-view-on-GitHub": "GitHub で見る",
   "light": "ライト",
-  "dark": "暗い"
+  "dark": "暗い",
+  "home-dark-title": "ダークモードの統合"
 }
