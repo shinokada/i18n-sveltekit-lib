@@ -5,5 +5,6 @@
   "home-cta-1": " ist eine kostenlose Open-Source-UI-Komponentenbibliothek, die mit Svelte basierend auf Flowbite und Tailwind CSS erstellt wurde.",
   "home-cta-2": "Durch die Installation des Pakets über NPM können Sie schnell modern aussehende Webanwendungen erstellen, indem Sie Svelte, Tailwind CSS und Flowbite nutzen und vorgefertigte UI-Komponenten wie Dropdowns, Navigationsleisten, Modalitäten und mehr nutzen.",
   "home-cta-li-1": "Riesige Sammlung von UI-Komponenten",
-  "home-cta-li-2": "Open Source unter der MIT-Lizenz"
+  "home-cta-li-2": "Open Source unter der MIT-Lizenz",
+  "home-cta-li-3": "Interaktivität wird von Svelte übernommen"
 }
