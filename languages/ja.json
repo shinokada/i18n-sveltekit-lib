@@ -6,5 +6,6 @@
   "home-cta-2": "NPM 経由でパッケージをインストールすると、ドロップダウン、ナビゲーションバー、モーダルなどの既製の UI コンポーネントを使用して、Svelte、Tailwind CSS、Flowbite を活用して、最新の外観の Web アプリケーションを迅速に構築できるようになります。",
   "home-cta-li-1": "UI コンポーネントの膨大なコレクション",
   "home-cta-li-2": "MITライセンスに基づくオープンソース",
-  "home-cta-li-3": "Svelte によって処理されるインタラクティブ性"
+  "home-cta-li-3": "Svelte によって処理されるインタラクティブ性",
+  "home-cta-li-4": "Tailwind CSS に基づくユーティリティ クラス"
 }
