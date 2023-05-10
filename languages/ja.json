@@ -13,5 +13,6 @@
   "btn-view-on-GitHub": "GitHub で見る",
   "light": "ライト",
   "dark": "暗い",
-  "home-dark-title": "ダークモードの統合"
+  "home-dark-title": "ダークモードの統合",
+  "home-dark-1": "Flowbite Svelte はダーク モードをサポートしており、Svelte に基づく公式ドキュメントに従うことでプロジェクトに簡単に統合できます。"
 }
