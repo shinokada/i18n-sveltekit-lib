@@ -1,5 +1,6 @@
 {
   "welcome": "インランへようこそ",
   "intro": "こんにちは",
-  "home-cta-title": "Svelte UI コンポーネント"
+  "home-cta-title": "Svelte UI コンポーネント",
+  "home-cta-1": " は、Flowbite および Tailwind CSS に基づいて Svelte を使用して構築された、無料のオープンソース UI コンポーネント ライブラリです。"
 }
