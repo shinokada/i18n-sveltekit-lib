@@ -1,5 +1,6 @@
 <script>
   import { i, language, languages, switchLanguage } from '@inlang/sdk-js'
+	import { Alert } from 'flowbite-svelte';
   console.log(language) // => e.g 'en'
   import { Mycomponent } from '$lib'
   async function switchLanguageToEnglish() {
@@ -14,8 +15,13 @@
 	}
 </script>
 
-<h1>Welcome to SvelteKit</h1>
-<h2>{i('intro')}</h2>
+<h1 class="text-4xl">Welcome to SvelteKit</h1>
+<h2 class="text-3xl">{i('intro')}</h2>
+<div class="p-8">
+	<Alert>
+		<span class="font-medium">Info alert!</span> Change a few things up and try submitting again.
+	</Alert>
+</div>
 <Mycomponent name="Joe" />
 <ul>
 	{#each languages as language}
