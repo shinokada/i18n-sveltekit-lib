@@ -38,9 +38,11 @@
 		"@typescript-eslint/eslint-plugin": "^5.45.0",
 		"@typescript-eslint/parser": "^5.45.0",
 		"autoprefixer": "^10.4.14",
+		"classnames": "^2.3.2",
 		"eslint": "^8.28.0",
 		"eslint-config-prettier": "^8.5.0",
 		"eslint-plugin-svelte": "^2.26.0",
+		"flowbite-svelte": "^0.35.1",
 		"postcss": "^8.4.23",
 		"postcss-load-config": "^4.0.1",
 		"prettier": "^2.8.0",
@@ -60,8 +62,6 @@
 	"type": "module",
 	"dependencies": {
 		"@popperjs/core": "^2.11.7",
-		"classnames": "^2.3.2",
-		"flowbite": "^1.6.5",
-		"flowbite-svelte": "^0.34.12"
+		"flowbite": "^1.6.5"
 	}
 }
