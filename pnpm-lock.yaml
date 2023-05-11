@@ -72,6 +72,9 @@ devDependencies:
   svelte-check:
     specifier: ^3.0.1
     version: 3.3.1(postcss-load-config@4.0.1)(postcss@8.4.23)(svelte@3.59.0)
+  svelte-circle-flags:
+    specifier: ^0.5.3
+    version: 0.5.3(svelte@3.59.0)
   svelte-preprocess:
     specifier: ^5.0.3
     version: 5.0.3(postcss-load-config@4.0.1)(postcss@8.4.23)(svelte@3.59.0)(typescript@5.0.4)
@@ -2667,6 +2670,14 @@ packages:
       - sass
       - stylus
       - sugarss
+    dev: true
+
+  /svelte-circle-flags@0.5.3(svelte@3.59.0):
+    resolution: {integrity: sha512-wGzRR1DsOmDZZlfbuBIyONIBKEoUxxbZIeyyXH3atiZ1tCQgRHgMxMo4WBbJC5Ot+ixRxpAxIQUSTIOldmERUA==}
+    peerDependencies:
+      svelte: ^3.54.0
+    dependencies:
+      svelte: 3.59.0
     dev: true
 
   /svelte-eslint-parser@0.27.0(svelte@3.59.0):

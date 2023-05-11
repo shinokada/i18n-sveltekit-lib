@@ -1,9 +1,7 @@
 <script>
   import { i, language, languages, switchLanguage } from '@inlang/sdk-js'
 	import { Alert, Button, SpeedDial, SpeedDialButton } from 'flowbite-svelte';
-	import Us from './utils/Us.svelte'
-	import De from './utils/De.svelte'
-	import Ja from './utils/Ja.svelte'
+	import { Us, De, Jp } from 'svelte-circle-flags'
   console.log(language) // => e.g 'en'
   import { Mycomponent } from '$lib'
   async function switchLanguageToEnglish() {
@@ -63,6 +61,6 @@
 			<De on:click={switchLanguageToGerman}/>
 	</SpeedDialButton>
 	<SpeedDialButton name="Japanese" size="xs">
-			<Ja on:click={switchLanguageToJapanese} />
+			<Jp on:click={switchLanguageToJapanese} />
 	</SpeedDialButton>
 </SpeedDial>
