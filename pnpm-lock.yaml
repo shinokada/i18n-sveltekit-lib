@@ -9,9 +9,12 @@ dependencies:
     version: 1.6.5
 
 devDependencies:
+  '@inlang/core':
+    specifier: ^0.8.1
+    version: 0.8.1(esbuild@0.17.18)
   '@inlang/sdk-js':
-    specifier: ^0.2.1
-    version: 0.2.1(@inlang/core@0.7.13)
+    specifier: ^0.4.4
+    version: 0.4.4(@sveltejs/kit@1.16.2)(svelte@3.59.0)
   '@playwright/test':
     specifier: ^1.28.1
     version: 1.33.0
@@ -521,8 +524,8 @@ packages:
       outmatch: 0.7.0
     dev: true
 
-  /@inlang/core@0.7.13(esbuild@0.17.18):
-    resolution: {integrity: sha512-Sz/wDQ1F3JIFU15LkrACplidBgMWIADCSJPpbkmqp4DV44w32ZQjz2CQ2OIEBFRYQdxi6+sAFkS9lMZXqfAang==}
+  /@inlang/core@0.8.1(esbuild@0.17.18):
+    resolution: {integrity: sha512-QlxH8d/dZ4zQNTdAyKF2DZK6psfYIBqsw2eZjZjIOpfwcsEqjrzrikK/jQayyWN/2WqoYIQ3py+1TnDAauP4Cg==}
     engines: {node: '>=16.15.0'}
     dependencies:
       '@esbuild-plugins/node-modules-polyfill': 0.2.2(esbuild@0.17.18)
@@ -534,13 +537,15 @@ packages:
       - esbuild
     dev: true
 
-  /@inlang/sdk-js@0.2.1(@inlang/core@0.7.13):
-    resolution: {integrity: sha512-/akHqjeXhg2d/H9StQIyKMvwH7bJGlpQzxIk8adZeFEYG8UPBY/bs2YPXSZ1ojon8B1wfrmBktTZxN9nbIRj7w==}
+  /@inlang/sdk-js@0.4.4(@sveltejs/kit@1.16.2)(svelte@3.59.0):
+    resolution: {integrity: sha512-HoaSjLU+/6ReUy1QKByaFfhVkhMXLR47tye+Rpdwy4Vi77EisoxWQg51gsVe3j6rlKFOVMMW4saqmEeZfxVinA==}
     engines: {node: '>=18'}
     peerDependencies:
-      '@inlang/core': '*'
+      '@sveltejs/kit': ^1.0.0
+      svelte: ^3.0.0
     dependencies:
-      '@inlang/core': 0.7.13(esbuild@0.17.18)
+      '@sveltejs/kit': 1.16.2(svelte@3.59.0)(vite@4.3.5)
+      svelte: 3.59.0
     dev: true
 
   /@jridgewell/gen-mapping@0.3.3:
